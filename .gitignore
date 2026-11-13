@@ -6,3 +6,4 @@ erl_crash.dump
 *.ez
 /data/users.json
 /data/results.log
+persistencia.ex
