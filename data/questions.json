@@ -1,0 +1,770 @@
+[
+  {
+    "id": "ciencia-b1",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": {"A": "Marte", "B": "Júpiter", "C": "Saturno", "D": "Neptuno"},
+    "correcta": "B"
+  },
+  {
+    "id": "ciencia-b2",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Qué gas necesitan los humanos para respirar?",
+    "opciones": {"A": "Oxígeno", "B": "Helio", "C": "Hidrógeno", "D": "Nitrógeno"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-b3",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿A qué temperatura se congela el agua a nivel del mar?",
+    "opciones": {"A": "0 °C", "B": "10 °C", "C": "50 °C", "D": "100 °C"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-b4",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Qué planeta es conocido como el planeta rojo?",
+    "opciones": {"A": "Urano", "B": "Mercurio", "C": "Marte", "D": "Venus"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-b5",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Qué órgano bombea la sangre en el cuerpo humano?",
+    "opciones": {"A": "Hígado", "B": "Riñón", "C": "Pulmón", "D": "Corazón"},
+    "correcta": "D"
+  },
+  {
+    "id": "ciencia-b6",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es la estrella más cercana a la Tierra?",
+    "opciones": {"A": "Polaris", "B": "Sirio", "C": "El Sol", "D": "Alfa Centauri"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-b7",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Cuántos días tiene un año no bisiesto?",
+    "opciones": {"A": "366", "B": "360", "C": "365", "D": "364"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-b8",
+    "tema": "ciencia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál de estos animales es un mamífero?",
+    "opciones": {"A": "Delfín", "B": "Pulpo", "C": "Tiburón", "D": "Atún"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-i1",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es el símbolo químico del sodio?",
+    "opciones": {"A": "So", "B": "Na", "C": "S", "D": "Sd"},
+    "correcta": "B"
+  },
+  {
+    "id": "ciencia-i2",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué orgánulo produce la mayor parte de la energía de la célula?",
+    "opciones": {"A": "Lisosoma", "B": "Ribosoma", "C": "Mitocondria", "D": "Núcleo"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-i3",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es la fórmula química del agua?",
+    "opciones": {"A": "HO2", "B": "H2O", "C": "H2O2", "D": "CO2"},
+    "correcta": "B"
+  },
+  {
+    "id": "ciencia-i4",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué científico formuló la ley de la gravitación universal?",
+    "opciones": {"A": "Johannes Kepler", "B": "Galileo Galilei", "C": "Isaac Newton", "D": "Albert Einstein"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-i5",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "opciones": {"A": "Fémur", "B": "Radio", "C": "Húmero", "D": "Tibia"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-i6",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué unidad mide la fuerza en el Sistema Internacional?",
+    "opciones": {"A": "Pascal", "B": "Watt", "C": "Joule", "D": "Newton"},
+    "correcta": "D"
+  },
+  {
+    "id": "ciencia-i7",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+    "opciones": {"A": "Argón", "B": "Dióxido de carbono", "C": "Oxígeno", "D": "Nitrógeno"},
+    "correcta": "D"
+  },
+  {
+    "id": "ciencia-i8",
+    "tema": "ciencia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es el planeta más cercano al Sol?",
+    "opciones": {"A": "Mercurio", "B": "Venus", "C": "Tierra", "D": "Marte"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-a1",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es el número atómico del carbono?",
+    "opciones": {"A": "6", "B": "4", "C": "8", "D": "12"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-a2",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+    "opciones": {"A": "Protón", "B": "Fotón", "C": "Neutrón", "D": "Electrón"},
+    "correcta": "D"
+  },
+  {
+    "id": "ciencia-a3",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+    "opciones": {"A": "3 000 km/s", "B": "30 000 km/s", "C": "300 000 km/s", "D": "150 000 km/s"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-a4",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué tipo de enlace químico comparte pares de electrones entre átomos?",
+    "opciones": {"A": "Magnético", "B": "Covalente", "C": "Iónico", "D": "Gravitacional"},
+    "correcta": "B"
+  },
+  {
+    "id": "ciencia-a5",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué molécula almacena la información genética en la mayoría de los seres vivos?",
+    "opciones": {"A": "ARN mensajero", "B": "Glucosa", "C": "ADN", "D": "ATP"},
+    "correcta": "C"
+  },
+  {
+    "id": "ciencia-a6",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es el pH de una solución neutra a 25 °C?",
+    "opciones": {"A": "7", "B": "0", "C": "10", "D": "14"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-a7",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Quién propuso la teoría de la relatividad general?",
+    "opciones": {"A": "Albert Einstein", "B": "Niels Bohr", "C": "Werner Heisenberg", "D": "Max Planck"},
+    "correcta": "A"
+  },
+  {
+    "id": "ciencia-a8",
+    "tema": "ciencia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué pigmento capta la luz en la fotosíntesis?",
+    "opciones": {"A": "Clorofila", "B": "Hemoglobina", "C": "Queratina", "D": "Melanina"},
+    "correcta": "A"
+  },
+  {
+    "id": "historia-b1",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿En qué año llegó Cristóbal Colón a América?",
+    "opciones": {"A": "1453", "B": "1492", "C": "1500", "D": "1810"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-b2",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿Quién fue el primer presidente de Estados Unidos?",
+    "opciones": {"A": "John Adams", "B": "George Washington", "C": "Abraham Lincoln", "D": "Thomas Jefferson"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-b3",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿Qué civilización construyó las pirámides de Giza?",
+    "opciones": {"A": "Maya", "B": "Romana", "C": "Griega", "D": "Egipcia"},
+    "correcta": "D"
+  },
+  {
+    "id": "historia-b4",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿En qué año fue el grito de Independencia de Colombia?",
+    "opciones": {"A": "1821", "B": "1810", "C": "1819", "D": "1830"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-b5",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿Quién es conocido como El Libertador?",
+    "opciones": {"A": "Simón Bolívar", "B": "Francisco de Paula Santander", "C": "José de San Martín", "D": "Antonio Nariño"},
+    "correcta": "A"
+  },
+  {
+    "id": "historia-b6",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿Qué imperio tenía su capital en Roma?",
+    "opciones": {"A": "El Imperio romano", "B": "El Imperio persa", "C": "El Imperio otomano", "D": "El Imperio mongol"},
+    "correcta": "A"
+  },
+  {
+    "id": "historia-b7",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿Qué transatlántico se hundió en 1912 tras chocar con un iceberg?",
+    "opciones": {"A": "Lusitania", "B": "Titanic", "C": "Britannic", "D": "Bismarck"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-b8",
+    "tema": "historia",
+    "nivel": "basico",
+    "enunciado": "¿En qué continente se desarrolló la civilización inca?",
+    "opciones": {"A": "América", "B": "Europa", "C": "Asia", "D": "África"},
+    "correcta": "A"
+  },
+  {
+    "id": "historia-i1",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "opciones": {"A": "1939", "B": "1918", "C": "1905", "D": "1914"},
+    "correcta": "D"
+  },
+  {
+    "id": "historia-i2",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué batalla selló la independencia de Colombia en 1819?",
+    "opciones": {"A": "Batalla de Carabobo", "B": "Batalla de Ayacucho", "C": "Batalla de Boyacá", "D": "Batalla de Pichincha"},
+    "correcta": "C"
+  },
+  {
+    "id": "historia-i3",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿Quién lideró la Revolución rusa de 1917?",
+    "opciones": {"A": "León Trotski", "B": "Iósif Stalin", "C": "Vladimir Lenin", "D": "Mijaíl Gorbachov"},
+    "correcta": "C"
+  },
+  {
+    "id": "historia-i4",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué evento ocurrió el 14 de julio de 1789?",
+    "opciones": {"A": "La muerte de Luis XVI", "B": "La toma de la Bastilla", "C": "La coronación de Napoleón", "D": "El Congreso de Viena"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-i5",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué tratado puso fin a la Primera Guerra Mundial con Alemania?",
+    "opciones": {"A": "Tratado de Versalles", "B": "Tratado de Utrecht", "C": "Paz de Westfalia", "D": "Tratado de Tordesillas"},
+    "correcta": "A"
+  },
+  {
+    "id": "historia-i6",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué país lanzó el primer satélite artificial, el Sputnik?",
+    "opciones": {"A": "Alemania", "B": "Unión Soviética", "C": "China", "D": "Estados Unidos"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-i7",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿Quién fue el primer emperador romano?",
+    "opciones": {"A": "Nerón", "B": "Julio César", "C": "Trajano", "D": "Augusto"},
+    "correcta": "D"
+  },
+  {
+    "id": "historia-i8",
+    "tema": "historia",
+    "nivel": "intermedio",
+    "enunciado": "¿En qué año cayó el Muro de Berlín?",
+    "opciones": {"A": "1961", "B": "1991", "C": "1975", "D": "1989"},
+    "correcta": "D"
+  },
+  {
+    "id": "historia-a1",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿En qué año se firmó la Paz de Westfalia?",
+    "opciones": {"A": "1713", "B": "1688", "C": "1648", "D": "1618"},
+    "correcta": "C"
+  },
+  {
+    "id": "historia-a2",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿Quién fue el último emperador del Imperio bizantino?",
+    "opciones": {"A": "Constantino XI", "B": "Justiniano I", "C": "Basilio II", "D": "Heraclio"},
+    "correcta": "A"
+  },
+  {
+    "id": "historia-a3",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué tratado de 1494 dividió el Nuevo Mundo entre España y Portugal?",
+    "opciones": {"A": "Tratado de Verdún", "B": "Tratado de Zaragoza", "C": "Tratado de Tordesillas", "D": "Tratado de Utrecht"},
+    "correcta": "C"
+  },
+  {
+    "id": "historia-a4",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿En qué año fue la batalla de Waterloo?",
+    "opciones": {"A": "1805", "B": "1815", "C": "1812", "D": "1821"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-a5",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué dinastía gobernaba China durante el viaje de Marco Polo?",
+    "opciones": {"A": "Tang", "B": "Yuan", "C": "Qing", "D": "Ming"},
+    "correcta": "B"
+  },
+  {
+    "id": "historia-a6",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿Quién presidía Colombia cuando Panamá se separó en 1903?",
+    "opciones": {"A": "Miguel Antonio Caro", "B": "Rafael Reyes", "C": "José Manuel Marroquín", "D": "Carlos E. Restrepo"},
+    "correcta": "C"
+  },
+  {
+    "id": "historia-a7",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué conferencia de 1884-1885 reguló el reparto colonial de África?",
+    "opciones": {"A": "Conferencia de Yalta", "B": "Conferencia de Potsdam", "C": "Conferencia de Berlín", "D": "Conferencia de Viena"},
+    "correcta": "C"
+  },
+  {
+    "id": "historia-a8",
+    "tema": "historia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué rey francés fue llamado el Rey Sol?",
+    "opciones": {"A": "Luis XV", "B": "Luis XIV", "C": "Luis XVI", "D": "Carlos X"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-b1",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es la capital de Colombia?",
+    "opciones": {"A": "Cali", "B": "Bogotá", "C": "Cartagena", "D": "Medellín"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-b2",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es el océano más grande del planeta?",
+    "opciones": {"A": "Índico", "B": "Ártico", "C": "Atlántico", "D": "Pacífico"},
+    "correcta": "D"
+  },
+  {
+    "id": "geografia-b3",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿En qué continente está Egipto?",
+    "opciones": {"A": "Oceanía", "B": "Europa", "C": "Asia", "D": "África"},
+    "correcta": "D"
+  },
+  {
+    "id": "geografia-b4",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es el río más caudaloso del mundo?",
+    "opciones": {"A": "Misisipi", "B": "Nilo", "C": "Yangtsé", "D": "Amazonas"},
+    "correcta": "D"
+  },
+  {
+    "id": "geografia-b5",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es la capital de Francia?",
+    "opciones": {"A": "París", "B": "Londres", "C": "Roma", "D": "Madrid"},
+    "correcta": "A"
+  },
+  {
+    "id": "geografia-b6",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿Cuántos continentes se reconocen en el modelo más usado?",
+    "opciones": {"A": "6", "B": "7", "C": "5", "D": "8"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-b7",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿En qué departamento de Colombia está Armenia?",
+    "opciones": {"A": "Caldas", "B": "Quindío", "C": "Risaralda", "D": "Tolima"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-b8",
+    "tema": "geografia",
+    "nivel": "basico",
+    "enunciado": "¿Cuál es el país más grande del mundo por superficie?",
+    "opciones": {"A": "Estados Unidos", "B": "Rusia", "C": "China", "D": "Canadá"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-i1",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es la capital de Australia?",
+    "opciones": {"A": "Canberra", "B": "Sídney", "C": "Melbourne", "D": "Perth"},
+    "correcta": "A"
+  },
+  {
+    "id": "geografia-i2",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+    "opciones": {"A": "K2", "B": "Everest", "C": "Kilimanjaro", "D": "Aconcagua"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-i3",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué país tiene forma de bota?",
+    "opciones": {"A": "Chile", "B": "Grecia", "C": "Portugal", "D": "Italia"},
+    "correcta": "D"
+  },
+  {
+    "id": "geografia-i4",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es el desierto cálido más grande del mundo?",
+    "opciones": {"A": "Gobi", "B": "Kalahari", "C": "Atacama", "D": "Sahara"},
+    "correcta": "D"
+  },
+  {
+    "id": "geografia-i5",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué mar baña la costa norte de Colombia?",
+    "opciones": {"A": "Mar Mediterráneo", "B": "Mar Rojo", "C": "Mar Negro", "D": "Mar Caribe"},
+    "correcta": "D"
+  },
+  {
+    "id": "geografia-i6",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es la capital de Canadá?",
+    "opciones": {"A": "Toronto", "B": "Ottawa", "C": "Vancouver", "D": "Montreal"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-i7",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué cordillera separa tradicionalmente Europa de Asia?",
+    "opciones": {"A": "Los Alpes", "B": "Los Urales", "C": "Los Pirineos", "D": "Los Cárpatos"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-i8",
+    "tema": "geografia",
+    "nivel": "intermedio",
+    "enunciado": "¿Cuál es el país con más habitantes de Sudamérica?",
+    "opciones": {"A": "Perú", "B": "Brasil", "C": "Colombia", "D": "Argentina"},
+    "correcta": "B"
+  },
+  {
+    "id": "geografia-a1",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es el lago más profundo del mundo?",
+    "opciones": {"A": "Superior", "B": "Victoria", "C": "Baikal", "D": "Titicaca"},
+    "correcta": "C"
+  },
+  {
+    "id": "geografia-a2",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es la capital de Kazajistán?",
+    "opciones": {"A": "Astaná", "B": "Taskent", "C": "Almaty", "D": "Biskek"},
+    "correcta": "A"
+  },
+  {
+    "id": "geografia-a3",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué estrecho separa Europa de África?",
+    "opciones": {"A": "Estrecho de Magallanes", "B": "Bósforo", "C": "Estrecho de Gibraltar", "D": "Estrecho de Bering"},
+    "correcta": "C"
+  },
+  {
+    "id": "geografia-a4",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es el país más pequeño del mundo?",
+    "opciones": {"A": "Liechtenstein", "B": "Mónaco", "C": "Ciudad del Vaticano", "D": "San Marino"},
+    "correcta": "C"
+  },
+  {
+    "id": "geografia-a5",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué río atraviesa la ciudad de Budapest?",
+    "opciones": {"A": "Danubio", "B": "Vístula", "C": "Rin", "D": "Elba"},
+    "correcta": "A"
+  },
+  {
+    "id": "geografia-a6",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es el punto más bajo de la superficie terrestre emergida?",
+    "opciones": {"A": "Orilla del Mar Muerto", "B": "Lago Assal", "C": "Valle de la Muerte", "D": "Depresión de Qattara"},
+    "correcta": "A"
+  },
+  {
+    "id": "geografia-a7",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cuál es la capital de Nueva Zelanda?",
+    "opciones": {"A": "Christchurch", "B": "Auckland", "C": "Wellington", "D": "Hamilton"},
+    "correcta": "C"
+  },
+  {
+    "id": "geografia-a8",
+    "tema": "geografia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué país tiene más husos horarios si se cuentan sus territorios de ultramar?",
+    "opciones": {"A": "Estados Unidos", "B": "Francia", "C": "Rusia", "D": "China"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-b1",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué significa CPU?",
+    "opciones": {"A": "Computadora Personal Universal", "B": "Centro de Programación Unificado", "C": "Unidad Central de Procesamiento", "D": "Control Principal de Usuario"},
+    "correcta": "C"
+  },
+  {
+    "id": "tecnologia-b2",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué dispositivo se usa principalmente para ingresar texto?",
+    "opciones": {"A": "Impresora", "B": "Altavoz", "C": "Teclado", "D": "Monitor"},
+    "correcta": "C"
+  },
+  {
+    "id": "tecnologia-b3",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué lenguaje funcional corre sobre la máquina virtual de Erlang?",
+    "opciones": {"A": "Elixir", "B": "COBOL", "C": "Pascal", "D": "Fortran"},
+    "correcta": "A"
+  },
+  {
+    "id": "tecnologia-b4",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué extensión tiene un script de Elixir?",
+    "opciones": {"A": ".py", "B": ".exs", "C": ".java", "D": ".cpp"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-b5",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué operador de Elixir pasa el resultado de una expresión a la siguiente función?",
+    "opciones": {"A": "<>", "B": "->", "C": "&&", "D": "|>"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-b6",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué almacena la memoria RAM?",
+    "opciones": {"A": "Solo imágenes", "B": "Datos y programas en uso de forma temporal", "C": "Las contraseñas del correo", "D": "Programas desinstalados"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-b7",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Qué es un bit?",
+    "opciones": {"A": "Un tipo de red", "B": "Un conjunto de 8 bytes", "C": "Un lenguaje de programación", "D": "La unidad mínima de información (0 o 1)"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-b8",
+    "tema": "tecnologia",
+    "nivel": "basico",
+    "enunciado": "¿Con qué comando se ejecuta un script de Elixir?",
+    "opciones": {"A": "elixir archivo.exs", "B": "node archivo.exs", "C": "java archivo.exs", "D": "python archivo.exs"},
+    "correcta": "A"
+  },
+  {
+    "id": "tecnologia-i1",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué función de Elixir muestra un mensaje en pantalla?",
+    "opciones": {"A": "print", "B": "IO.puts", "C": "echo", "D": "console.log"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-i2",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué característica tienen los datos en Elixir?",
+    "opciones": {"A": "Son siempre globales", "B": "Se borran al leerlos", "C": "Se modifican en sitio", "D": "Son inmutables"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-i3",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué devuelve rem(7, 2)?",
+    "opciones": {"A": "3", "B": "2", "C": "1", "D": "0"},
+    "correcta": "C"
+  },
+  {
+    "id": "tecnologia-i4",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué módulo de Elixir se usa para map, filter y reduce sobre colecciones?",
+    "opciones": {"A": "IO", "B": "Path", "C": "File", "D": "Enum"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-i5",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué es un átomo en Elixir?",
+    "opciones": {"A": "Un proceso", "B": "Una lista ordenada", "C": "Una función anónima", "D": "Una constante que sirve de etiqueta, como :ok"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-i6",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué función crea un proceso en Elixir?",
+    "opciones": {"A": "fork", "B": "spawn", "C": "exec", "D": "thread"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-i7",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Con qué función se envía un mensaje a un proceso?",
+    "opciones": {"A": "post", "B": "send", "C": "push", "D": "emit"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-i8",
+    "tema": "tecnologia",
+    "nivel": "intermedio",
+    "enunciado": "¿Qué retorna File.read/1 cuando lee un archivo con éxito?",
+    "opciones": {"A": "nil", "B": "{:ok, contenido}", "C": "{:error, motivo}", "D": ":ok"},
+    "correcta": "B"
+  },
+  {
+    "id": "tecnologia-a1",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué palabra clave de Elixir define una función privada?",
+    "opciones": {"A": "priv", "B": "def", "C": "private", "D": "defp"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-a2",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Cómo se llama la condición adicional que se escribe con when en una cláusula?",
+    "opciones": {"A": "Pipe", "B": "Átomo", "C": "Guard", "D": "Struct"},
+    "correcta": "C"
+  },
+  {
+    "id": "tecnologia-a3",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué función genera un stream infinito aplicando una función al valor anterior?",
+    "opciones": {"A": "Enum.map/2", "B": "Stream.take/2", "C": "Enum.reduce/3", "D": "Stream.iterate/2"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-a4",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué ocurre con un pipeline de Stream que no termina en una función de Enum?",
+    "opciones": {"A": "Calcula todo en paralelo", "B": "Guarda el resultado en un archivo", "C": "No calcula nada: devuelve un stream", "D": "Lanza un error de sintaxis"},
+    "correcta": "C"
+  },
+  {
+    "id": "tecnologia-a5",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué directiva obliga a dar ciertos campos al crear un struct?",
+    "opciones": {"A": "@enforce_keys", "B": "@must", "C": "@required", "D": "defguard"},
+    "correcta": "A"
+  },
+  {
+    "id": "tecnologia-a6",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué función asigna un nombre a un proceso?",
+    "opciones": {"A": "Process.alive?/1", "B": "Process.link/1", "C": "Process.name/2", "D": "Process.register/2"},
+    "correcta": "D"
+  },
+  {
+    "id": "tecnologia-a7",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué estructura encadena pasos que devuelven {:ok, _} y se detiene en el primer fallo?",
+    "opciones": {"A": "with", "B": "for", "C": "if", "D": "cond"},
+    "correcta": "A"
+  },
+  {
+    "id": "tecnologia-a8",
+    "tema": "tecnologia",
+    "nivel": "avanzado",
+    "enunciado": "¿Qué función lee un archivo línea por línea de forma perezosa?",
+    "opciones": {"A": "File.read/1", "B": "File.stream!/1", "C": "File.write/2", "D": "File.ls!/1"},
+    "correcta": "B"
+  }
+]
