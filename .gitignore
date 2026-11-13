@@ -1,1 +1,8 @@
 prueba.exs
+/_build/
+/deps/
+/cover/
+erl_crash.dump
+*.ez
+/data/users.json
+/data/results.log
