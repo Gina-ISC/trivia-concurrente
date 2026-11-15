@@ -11,6 +11,13 @@ defmodule Trivia.MixProject do
     ]
   end
 
+  def application do
+    [
+      extra_applications: [:logger],
+      mod: {Trivia.Application, []}
+    ]
+  end
+
   defp deps do
     [
       {:jason, "~> 1.4"}
