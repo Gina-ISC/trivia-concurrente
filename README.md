@@ -17,14 +17,14 @@ mix test          # pruebas ExUnit
 Cómo levantar los nodos
 El rol del nodo depende de su nombre corto: un nodo llamado servidor levanta el juego
 
-# Consola 1: servidor (carga data/questions.json y queda esperando)
+Consola 1: servidor (carga data/questions.json y queda esperando)
 iex --sname servidor -S mix
 
-# Consola 2: cliente de Pedro
+Consola 2: cliente de Pedro
 iex --sname pedro -S mix
 iex> Trivia.Cliente.jugar()
 
-# Consola 3: cliente de Carlos
+Consola 3: cliente de Carlos
 iex --sname carlos -S mix
 iex> Trivia.Cliente.jugar()
 
