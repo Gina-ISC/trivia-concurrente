@@ -7,7 +7,7 @@ Proyecto final de la asignatura **Programación III** de la Universidad del Quin
 - Gina Marcela Tamayo Castañeda
 - Samuel Gutierrez Vega
 
-- Compilación
+### Compilación
 
 mix deps.get      # descarga Jason
 mix compile
